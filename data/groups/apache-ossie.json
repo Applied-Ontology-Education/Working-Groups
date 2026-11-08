@@ -1,0 +1,49 @@
+{
+  "id": "apache-ossie",
+  "name": "Apache Ossie WG",
+  "category": "Standards",
+  "summary": "Contribute to the technical evolution of semantic interchange through Apache Ossie, formerly Open Semantic Interchange (OSI).",
+  "contacts": [
+    {
+      "name": "John Beverley",
+      "email": "info@ncornetwork.org",
+      "note": "Interim contact; working-group point of contact to be confirmed."
+    }
+  ],
+  "tags": [
+    "Semantic interchange",
+    "Apache Ossie",
+    "Open standards"
+  ],
+  "status": "contact",
+  "participation": "Apache’s broader project has public contribution channels; those do not establish admission to this particular working group.",
+  "cadence": "Contact the organizers for the current schedule.",
+  "context": "Apache Ossie is an incubating Apache project developing a vendor-neutral specification for sharing semantic metadata across analytics, AI, and BI tools. The project’s open contributor channels are linked below; the specific working-group contact remains to be confirmed.",
+  "resources": [
+    {
+      "label": "Apache Ossie · project website",
+      "url": "https://ossie.apache.org/"
+    },
+    {
+      "label": "Apache Ossie · community",
+      "url": "https://ossie.apache.org/community/"
+    },
+    {
+      "label": "Apache · incubation status",
+      "url": "https://incubator.apache.org/clutch/ossie.html"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Apache Ossie · project overview",
+      "url": "https://ossie.apache.org/"
+    },
+    {
+      "label": "Apache · Ossie incubation record",
+      "url": "https://incubator.apache.org/clutch/ossie.html"
+    }
+  ],
+  "provenance": "Additional public resources are identified below. Related project resources do not independently verify this working group’s membership or schedule.",
+  "reviewedAt": "2026-11-07",
+  "order": 90
+}

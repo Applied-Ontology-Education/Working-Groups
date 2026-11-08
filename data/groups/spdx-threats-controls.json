@@ -1,0 +1,44 @@
+{
+  "id": "spdx-threats-controls",
+  "name": "SPDX Cyber Threats and Controls WG",
+  "category": "Cybersecurity",
+  "summary": "Align threat and control modeling with SPDX standards and D3FEND under BFO.",
+  "contacts": [
+    {
+      "name": "Victor Lu",
+      "email": "victorjunlu@gmail.com"
+    }
+  ],
+  "tags": [
+    "SPDX",
+    "D3FEND",
+    "Threat modeling"
+  ],
+  "status": "contact",
+  "participation": "Contact the listed organizers to ask about eligibility and how to join.",
+  "cadence": "The SPDX meeting repository lists weekly Monday meetings, 1–2 p.m. EDT. Confirm the current time and daylight-saving interpretation with the organizer.",
+  "context": "SPDX maintains a public Threats and Controls meeting series and an archive of agendas and minutes for work on threats, threat modeling, and controls.",
+  "resources": [
+    {
+      "label": "SPDX · meetings and joining details",
+      "url": "https://github.com/spdx/meetings"
+    },
+    {
+      "label": "Threats and Controls · minutes",
+      "url": "https://github.com/spdx/meetings/tree/main/threats"
+    },
+    {
+      "label": "MITRE D3FEND",
+      "url": "https://d3fend.mitre.org/"
+    }
+  ],
+  "sources": [
+    {
+      "label": "SPDX · official meeting schedule",
+      "url": "https://github.com/spdx/meetings"
+    }
+  ],
+  "provenance": "Additional public resources are identified below. Related project resources do not independently verify this working group’s membership or schedule.",
+  "reviewedAt": "2026-11-07",
+  "order": 20
+}

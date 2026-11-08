@@ -1,0 +1,40 @@
+{
+  "id": "ieee-cco-standard",
+  "name": "IEEE Common Core Ontologies Standards Working Group",
+  "category": "Standards",
+  "summary": "Draft a Common Core Ontologies standard that extends the foundation established by the BFO ISO standard.",
+  "contacts": [
+    {
+      "name": "Brenda Braitling",
+      "email": "bbraitling@ieee.org"
+    }
+  ],
+  "tags": [
+    "IEEE P3195.1",
+    "CCO",
+    "Standards"
+  ],
+  "status": "contact",
+  "participation": "Contact Brenda Braitling or use the expression-of-interest route on the IEEE working-group website. Confirm the applicable membership and participation requirements.",
+  "cadence": "Contact the organizers for the current schedule.",
+  "context": "IEEE identifies P3195.1 as the Common Core Ontology project within its Ontology Standards Working Group. The project is described as extending and conforming to BFO; it is distinct from the broader P3195 requirements project.",
+  "resources": [
+    {
+      "label": "IEEE · Ontology Standards Working Group",
+      "url": "https://sagroups.ieee.org/oswg/"
+    },
+    {
+      "label": "Common Core Ontologies · repository",
+      "url": "https://github.com/CommonCoreOntology/CommonCoreOntologies"
+    }
+  ],
+  "sources": [
+    {
+      "label": "IEEE · P3195 and P3195.1 project descriptions",
+      "url": "https://sagroups.ieee.org/oswg/"
+    }
+  ],
+  "provenance": "Additional public resources are identified below. Related project resources do not independently verify this working group’s membership or schedule.",
+  "reviewedAt": "2026-11-07",
+  "order": 30
+}

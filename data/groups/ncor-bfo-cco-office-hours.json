@@ -1,0 +1,48 @@
+{
+  "id": "ncor-bfo-cco-office-hours",
+  "name": "NCOR BFO/CCO Office Hours",
+  "category": "Learning & support",
+  "summary": "Bring your modeling questions and feedback to a stakeholder-led conversation with BFO and CCO developers.",
+  "contacts": [
+    {
+      "name": "Alex Cox",
+      "email": "apcox@buffalo.edu"
+    },
+    {
+      "name": "John Beverley",
+      "email": "johnbeve@buffalo.edu"
+    }
+  ],
+  "tags": [
+    "BFO",
+    "CCO",
+    "Office hours"
+  ],
+  "status": "open",
+  "participation": "Stakeholders can contact Alex Cox for a Teams invitation.",
+  "cadence": "The public page describes biweekly Friday sessions. Contact Alex for the current date, time, and time zone; the published logistics originate in 2024.",
+  "context": "",
+  "resources": [
+    {
+      "label": "NCOR · office hours and joining information",
+      "url": "https://ncor-network.org/docs/events/office-hours"
+    },
+    {
+      "label": "Basic Formal Ontology",
+      "url": "https://basic-formal-ontology.org/"
+    },
+    {
+      "label": "Common Core Ontologies · repository",
+      "url": "https://github.com/CommonCoreOntology/CommonCoreOntologies"
+    }
+  ],
+  "sources": [
+    {
+      "label": "NCOR · BFO and CCO office hours",
+      "url": "https://ncor-network.org/docs/events/office-hours"
+    }
+  ],
+  "provenance": "“Public sources welcome interested stakeholders; current logistics should be confirmed.",
+  "reviewedAt": "2026-11-07",
+  "order": 110
+}

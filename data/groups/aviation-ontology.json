@@ -1,0 +1,29 @@
+{
+  "id": "aviation-ontology",
+  "name": "Aviation Ontology Working Group",
+  "category": "Domain ontologies",
+  "summary": "Connect with the organizers about ontology work in the aviation domain. A detailed scope statement is awaiting confirmation.",
+  "contacts": [
+    {
+      "name": "Jose Parente de Oliveira",
+      "email": "parente@ita.br"
+    },
+    {
+      "name": "Alex Cox",
+      "email": "apcox@buffalo.edu"
+    }
+  ],
+  "tags": [
+    "Aviation",
+    "Domain ontologies"
+  ],
+  "status": "contact",
+  "participation": "Contact the listed organizers to ask about eligibility and how to join. Current participation requirements have not been confirmed.",
+  "cadence": "Contact the organizers for the current schedule.",
+  "context": "",
+  "resources": [],
+  "sources": [],
+  "provenance": "A detailed purpose, dedicated public group page, schedule, and participation policy were not supplied or independently verified.",
+  "reviewedAt": "2026-11-07",
+  "order": 70
+}

@@ -1,0 +1,46 @@
+{
+  "id": "cyber-ontology-foundry",
+  "name": "Cyber Ontology Foundry Working Group",
+  "category": "Cybersecurity",
+  "summary": "Develop and maintain a coordinated foundry of ontologies for the cyber domain.",
+  "contacts": [
+    {
+      "name": "Peter Kaloroumakis"
+    },
+    {
+      "name": "Ryan Hohimer"
+    },
+    {
+      "name": "John Beverley",
+      "email": "info@ncornetwork.org"
+    }
+  ],
+  "tags": [
+    "Cybersecurity",
+    "Foundries",
+    "BFO"
+  ],
+  "status": "contact",
+  "participation": "Contact the listed organizers to ask about eligibility and how to join.",
+  "cadence": "Contact the organizers for the current schedule.",
+  "context": "The Foundry’s public governance describes steering-committee review of working-group outputs before they become official Foundry content.",
+  "resources": [
+    {
+      "label": "Cyber Ontology Foundry · GitHub",
+      "url": "https://github.com/Cyber-Ontology-Foundry"
+    },
+    {
+      "label": "Foundry governance",
+      "url": "https://github.com/Cyber-Ontology-Foundry/Governance"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Cyber Ontology Foundry · organization profile",
+      "url": "https://github.com/Cyber-Ontology-Foundry"
+    }
+  ],
+  "provenance": "Additional public resources are identified below. Related project resources do not independently verify this working group’s membership or schedule.",
+  "reviewedAt": "2026-11-07",
+  "order": 10
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ies-bfo-mapping",
+  "name": "IES–BFO Mapping Working Group",
+  "category": "Semantic mappings",
+  "summary": "Construct a mapping between the Information Exchange Standard and Basic Formal Ontology.",
+  "contacts": [
+    {
+      "name": "Nigel D"
+    },
+    {
+      "name": "John Beverley",
+      "email": "johnbeve@buffalo.edu"
+    }
+  ],
+  "tags": [
+    "IES",
+    "BFO",
+    "Interoperability"
+  ],
+  "status": "contact",
+  "participation": "Contact the listed organizers to ask about eligibility and how to join. Current participation requirements have not been confirmed.",
+  "cadence": "Contact the organizers for the current schedule.",
+  "context": "IES’s public user guides describe its 4D approach and BORO foundations. Those materials provide useful background for readers exploring how IES relates to other ontological frameworks.",
+  "resources": [
+    {
+      "label": "IES · specification and documentation",
+      "url": "https://github.com/IES-Org/ont-ies"
+    },
+    {
+      "label": "Basic Formal Ontology",
+      "url": "https://basic-formal-ontology.org/"
+    }
+  ],
+  "sources": [
+    {
+      "label": "IES · user guides",
+      "url": "https://github.com/IES-Org/ont-ies/blob/main/docs/user-guides/index.md"
+    }
+  ],
+  "provenance": "Additional public resources are identified below. Related project resources do not independently verify this working group’s membership or schedule.",
+  "reviewedAt": "2026-11-07",
+  "order": 40
+}

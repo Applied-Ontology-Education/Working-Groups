@@ -1,0 +1,29 @@
+{
+  "id": "trustworthy-ai",
+  "name": "Ontology of Trustworthy AI",
+  "category": "AI & trust",
+  "summary": "Develop and test an ontology that reflects current efforts in trustworthy artificial intelligence.",
+  "contacts": [
+    {
+      "name": "Siwei Lyu"
+    },
+    {
+      "name": "Zhaofeng Si",
+      "email": "zhaofeng@buffalo.edu"
+    }
+  ],
+  "tags": [
+    "Trustworthy AI",
+    "Ontology design",
+    "Evaluation"
+  ],
+  "status": "contact",
+  "participation": "Contact the listed organizers to ask about eligibility and how to join.",
+  "cadence": "Contact the organizers for the current schedule.",
+  "context": "",
+  "resources": [],
+  "sources": [],
+  "provenance": "A dedicated public working-group page and participation policy were not independently verified.",
+  "reviewedAt": "2026-11-07",
+  "order": 50
+}

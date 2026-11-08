@@ -1,0 +1,36 @@
+{
+  "id": "ncor-ontology-101",
+  "name": "NCOR Ontology 101 Working Group",
+  "category": "Learning & support",
+  "summary": "Learn applied ontology through practical modeling challenges, design patterns, discussion, and hands-on work with tools such as Protégé.",
+  "contacts": [
+    {
+      "name": "Bill Mandrick",
+      "email": "william.mandrick@cubrc.org"
+    }
+  ],
+  "tags": [
+    "Newcomers welcome",
+    "Modeling",
+    "Protégé"
+  ],
+  "status": "open",
+  "participation": "An open forum for people new to applied ontology. Contact Bill Mandrick to arrange attendance in person or remotely.",
+  "cadence": "Weekly, according to the public group page. Contact Bill for the current day, time, and joining details.",
+  "context": "",
+  "resources": [
+    {
+      "label": "Ontology 101 · overview and meeting minutes",
+      "url": "https://ncor-network.org/docs/events/ontology-101"
+    }
+  ],
+  "sources": [
+    {
+      "label": "NCOR · Ontology 101 Working Group",
+      "url": "https://ncor-network.org/docs/events/ontology-101"
+    }
+  ],
+  "provenance": "Purpose, open participation, weekly cadence, supported by NCOR. Confirm the current meeting details with the organizer.",
+  "reviewedAt": "2026-11-07",
+  "order": 100
+}
