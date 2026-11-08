@@ -1,0 +1,85 @@
+name: Add a working group
+description: Propose a group for the NCOR Academy community directory.
+title: '[New group] '
+body:
+  - type: markdown
+    attributes:
+      value: 'All submitted details are public. After submission, a workflow creates a pull request for editorial review. A maintainer must merge it before the listing appears.'
+  - type: input
+    id: name
+    attributes:
+      label: Working group name
+      placeholder: Example Ontology Working Group
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Purpose
+      description: 30–600 characters describing the group's purpose.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Focus area
+      options:
+        - Cybersecurity
+        - Standards
+        - Semantic mappings
+        - AI & trust
+        - Domain ontologies
+        - Learning & support
+    validations:
+      required: true
+  - type: dropdown
+    id: participation
+    attributes:
+      label: Participation
+      options:
+        - Contact organizers
+        - Open to join
+        - Invitation only
+        - Paused
+    validations:
+      required: true
+  - type: input
+    id: contact-name
+    attributes:
+      label: Contact name
+    validations:
+      required: true
+  - type: input
+    id: contact-email
+    attributes:
+      label: Contact email
+      description: Public professional email; permission to publish is required.
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website or repository
+      placeholder: https://
+  - type: input
+    id: schedule
+    attributes:
+      label: Meeting schedule
+      description: Include a time zone if supplying a specific time. Maximum 160 characters.
+  - type: textarea
+    id: joining
+    attributes:
+      label: How to participate
+      description: Eligibility and joining instructions; maximum 400 characters.
+  - type: input
+    id: topics
+    attributes:
+      label: Topics
+      description: Up to six comma-separated topics, each at most 32 characters.
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Publication permission
+      options:
+        - label: I have permission to publish these details and contacts, and this submission contains only public, non-sensitive information.
+          required: true
