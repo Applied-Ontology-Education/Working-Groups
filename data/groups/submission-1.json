@@ -1,0 +1,34 @@
+{
+  "id": "submission-1",
+  "name": "CCO Developers Working Group",
+  "category": "Learning & support",
+  "summary": "Bring together ontology developers across organizations and projects with members of the Common Core Ontologies (CCO) Governance Board and Developers Group to recommend and implement changes to CCO to meet the evolving needs of the CCO community",
+  "contacts": [
+    {
+      "name": "Alex Cox",
+      "email": "alexander.cox@cubrc.org"
+    }
+  ],
+  "tags": [
+    "Common Core Ontologies"
+  ],
+  "status": "contact",
+  "participation": "Want to help shape the Common Core Ontologies? Email the working group’s point of contact for an invite to the meetings.\n\nHave a change you’d like to see? Open an issue on GitHub so it can be tracked and discussed.",
+  "cadence": "Weekly (Tuesday) at 2 p.m. Eastern Time Zone",
+  "context": "",
+  "resources": [
+    {
+      "label": "Group website / repository",
+      "url": "https://github.com/CommonCoreOntology/CommonCoreOntologies"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Submitter-provided group resource",
+      "url": "https://github.com/CommonCoreOntology/CommonCoreOntologies"
+    }
+  ],
+  "provenance": "Community-submitted listing. Participation and meeting details are reported by the submitter; directory review does not independently verify these claims.",
+  "submittedAt": "2026-11-08",
+  "order": 1001
+}
