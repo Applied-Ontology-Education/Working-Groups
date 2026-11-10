@@ -1,0 +1,27 @@
+{
+  "id": "submission-5",
+  "name": "IOF/INCOSE Systems Ontology Working Group",
+  "category": "Domain ontologies",
+  "summary": "Create a BFO-based ontology of natural, social and engineered systems.",
+  "contacts": [
+    {
+      "name": "Joe Gregory",
+      "email": "joegregory@arizona.edu"
+    }
+  ],
+  "tags": [
+    "BFO",
+    "Systems ontology",
+    "IOF",
+    "INCOSE"
+  ],
+  "status": "contact",
+  "participation": "Contact the listed organizers for eligibility and joining details.",
+  "cadence": "Contact the organizers for the current schedule.",
+  "context": "",
+  "resources": [],
+  "sources": [],
+  "provenance": "Community-submitted listing. Participation and meeting details are reported by the submitter; directory review does not independently verify these claims.",
+  "submittedAt": "2026-11-10",
+  "order": 1005
+}
