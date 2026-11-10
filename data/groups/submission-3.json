@@ -1,0 +1,29 @@
+{
+  "id": "submission-3",
+  "name": "Legal Ontology Foundry Working Group",
+  "category": "Domain ontologies",
+  "summary": "An international effort focused on creating interoperability across different legal systems.",
+  "contacts": [
+    {
+      "name": "David Koepsell",
+      "email": "drkoepsell@davidkoepsell.com"
+    },
+    {
+      "name": "William Mandrick",
+      "email": "william.mandrick@cubrc.org"
+    }
+  ],
+  "tags": [
+    "Legal ontologies",
+    "Interoperability"
+  ],
+  "status": "contact",
+  "participation": "Contact the listed organizers for eligibility and joining details.",
+  "cadence": "Contact the organizers for the current schedule.",
+  "context": "",
+  "resources": [],
+  "sources": [],
+  "provenance": "Community-submitted listing. Participation and meeting details are reported by the submitter; directory review does not independently verify these claims.",
+  "submittedAt": "2026-11-10",
+  "order": 1003
+}
